@@ -60,10 +60,6 @@ export const App = () => {
 
                 <Map />
             </div>
-
-            <div className="flex justify-center absolute bottom-4 w-full">
-                <a href="https://discord.gg/acvYQnGvKQ" className="bg-neutral-700 rounded-full text-neutral-400 text-sm py-1 px-4">Join the Discord community</a>
-            </div>
         </GameContext.Provider>
     )
 }
